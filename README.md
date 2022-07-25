@@ -7,5 +7,5 @@ Nesse projeto, foi desenvolvido um modelo de **Machine Learning** utilizando a t
 #### **Observações:**
 
 *   Os datasets foram retirados da plataforma Kaggle e está disponível no seguinte link: [Beer Consumption - Sao Paulo]([https://https://www.kaggle.com/datasets/mylesoneill/game-of-thrones](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo))
-*   O arquivo Regressao_Linear.ipynb apresenta o notebook com as análises realizadas. Disponível também no link https://github.com/mfaysoares/GOT-Analysis/blob/main/GOT.ipynb
+*   O arquivo Regressao_Linear.ipynb apresenta o notebook com as análises realizadas. Disponível também no link https://github.com/mfaysoares/Consumo_Cerveja_SP/blob/main/Regress%C3%A3o_Linear.ipynb
 
